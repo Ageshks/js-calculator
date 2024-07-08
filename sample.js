@@ -13,7 +13,7 @@ function calculate(){
 }
 
 function clearDisplay(){
-    display.value = "";
+    display.value = display.value.slice(-1,1);
 }
 function back(){
     display.value = display.value.slice(0,-1);
