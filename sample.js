@@ -12,5 +12,5 @@ function clearDisplay(){
     display.value = "";
 }
 function back(){
-
+    display.value = display.value.slice(0,-1);
 }
