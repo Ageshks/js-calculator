@@ -8,10 +8,9 @@ function calculate(){
 
 }
 
-function clear(){
-    display.value ="";
+function clearDisplay(){
+    display.value = "";
 }
-
 function back(){
 
 }
