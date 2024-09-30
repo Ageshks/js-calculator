@@ -1,2 +1,2 @@
 - calculator using javascript
- and the front end using the html and css
+ and the frontend using the html and css
